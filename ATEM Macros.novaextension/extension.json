@@ -5,7 +5,7 @@
     "description": "Completions designed to help in the creation of macros for the ATEM line of video productions switchers from Blackmagic Design.",
     "version": "1.0",
     "categories": ["completions"],
-    
+    "bugs": "https://github.com/bryce-seifert/ATEM-Macro-Snippets-Nova/issues",
     "main": "main.js",
     
     "activationEvents": [
