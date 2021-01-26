@@ -1,0 +1,18 @@
+{
+    "identifier": "com.bryce-seifert.ATEMMacros",
+    "name": "ATEM Macros",
+    "organization": "Bryce Seifert",
+    "description": "Completions designed to help in the creation of macros for the ATEM line of video productions switchers from Blackmagic Design.",
+    "version": "1.0",
+    "categories": ["completions"],
+    
+    "main": "main.js",
+    
+    "activationEvents": [
+        "onLanguage:xml"
+    ],
+    
+    "entitlements": {
+        
+    }
+}
